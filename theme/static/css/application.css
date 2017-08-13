@@ -29,6 +29,11 @@ h1 {
 	font-size: 1.5em;
 }
 
+h4 {
+    color: #f33;
+    font-weight: 600;
+}
+
 div#bg-image-top-wrapper {
 	background: #F9E6F1;
 }

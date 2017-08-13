@@ -25,14 +25,14 @@
 <div id="bg-image-bottom">
 <div id="body">
   <nav id="main">
-    <!-- <%= link_to 'Home', home_url %>
-         <%= link_to 'About', about_url %>
-         <%= link_to 'Events', events_url %>
-                <%= link_to 'Join', join_url %> -->
+    <a href="index.html">Home</a>
+    {% for page in pages %}
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endfor %}
   </nav>
   <div id="content">
     <div class="titlebar">
-      <span class="emphasis">MITSSS</span><span></span>
+      <span class="emphasis">MITSSS</span><span>{% block menutitle %}{% endblock %}</span>
     </div>
     {% block content %}
     {% endblock %}

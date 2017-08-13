@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} | {{ page.title }}{% endblock %}
+
+{% block menutitle %}{{ page.title }}{% endblock %}
+
+{% block content %}
+
+{{ page.content }}
+
+{% if page.slug == 'events' %}
+{% for event in page.events %}
+<div class="event">
+  <div class="image-container">
+    <div class="image">
+      <img src="{{ event.image }}">
+    </div>
+  </div>
+  <div class="event-body">
+    <div class="event-header">{{ event.name }}</div>
+    <span class="emphasis weighted">{{ event.name }}</span>
+    <span>{{ event.description }}</span>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% if page.slug == 'about' %}
+<h1>Current Committee</h1>
+{% for person in page.current_committee %}
+<div class="person">
+  <div class="image-container">
+    <div class="image">
+      <img src="{{ person.picture }}">
+    </div>
+  </div>
+  <div class="person-text">
+    <span class="emphasis weighted">{{ person.name }}</span>
+    <span>- {{ person.description }}</span>
+  </div>
+</div>
+{% endfor %}
+<div style="clear: both;"></div>
+<h1>Past Committees</h1>
+{% for entry in page.past_committees %}
+<div class="comm-entry">
+  <div class="comm-year">{{ entry.year}}</div>
+  <div class="comm-persons">
+    {% for person in entry.comm %}
+    <div class="comm-position">{{ person.position }}</div>
+    <div class="comm-name">{{ person.name }}</div>
+    {% endfor %}
+  </div>
+  <div style="clear: both;"></div>
+</div>
+{% endfor %}
+<div style="clear: both;"></div>
+{% endif %}
+
+
+{% endblock %}

@@ -13,10 +13,17 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-PAGES = {'join': 'join.html'}
+PAGE_PATHS = ['']
+ARTICLE_PATHS = ['articles']
 STATIC_PATHS = [
     'images',
     ]
+
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+
+PLUGINS = ['pelican-md-metayaml']
+PLUGIN_PATHS = ['pelican_plugins']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

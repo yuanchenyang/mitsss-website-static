@@ -14,6 +14,9 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
 PAGES = {'join': 'join.html'}
+STATIC_PATHS = [
+    'images',
+    ]
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

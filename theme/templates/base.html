@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--
+  Webpage written by Ming Yang
+  me@ongmingyang.com
+-->
+<html>
+<head>
+  <title>{% block title %}{% endblock %}</title>
+<head>
+  <link data-turbolinks-track="true" href="/theme/css/admin.css?body=1" media="all" rel="stylesheet">
+  <link data-turbolinks-track="true" href="/theme/css/home.css?body=1" media="all" rel="stylesheet">
+  <link data-turbolinks-track="true" href="/theme/css/application.css?body=1" media="all" rel="stylesheet">
+  <link href="/theme/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <style type="text/css">
+    :root #content > #right > .dose > .dosesingle,
+    :root #content > #center > .dose > .dosesingle
+    { display: none !important; }
+  </style>
+</head>
+<body>
+
+<div id="bg-image-top-wrapper">
+        <div id="bg-image-top"></div>
+</div>
+<div id="bg-image-bottom">
+<div id="body">
+  <nav id="main">
+    <!-- <%= link_to 'Home', home_url %>
+         <%= link_to 'About', about_url %>
+         <%= link_to 'Events', events_url %>
+                <%= link_to 'Join', join_url %> -->
+  </nav>
+  <div id="content">
+    <div class="titlebar">
+      <span class="emphasis">MITSSS</span><span></span>
+    </div>
+    {% block content %}
+    {% endblock %}
+  </div>
+</div>
+</div>
+<div id="footer">
+  <div>
+    <span>Copyright &copy; 2013-2017 MITSSS - All Rights Reserved</span>
+  </div>
+  <div>
+    <span aria-hidden='true' class='icon-envelop footer-icon'></span>
+    <span><a href="mailto:mitsss-com@mit.edu">Contact us</a></span>
+    <span aria-hidden='true' class='icon-facebook footer-icon'></span>
+    <span><a href="https://www.facebook.com/mitsingaporeans">Facebook</a></span>
+    <div>
+</div>
+</body>
+</html>

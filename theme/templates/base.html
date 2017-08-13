@@ -25,8 +25,7 @@
 <div id="bg-image-bottom">
 <div id="body">
   <nav id="main">
-    <a href="index.html">Home</a>
-    {% for page in pages %}
+    {% for page in pages|sort(attribute='order')%}
       <a href="{{ page.url }}">{{ page.title }}</a>
     {% endfor %}
   </nav>

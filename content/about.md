@@ -1,6 +1,7 @@
 ---
 title: About
 slug: about
+order: 2
 current_committee:
  - name: Adam Zhao
    picture: images/current_committee/adam.jpg

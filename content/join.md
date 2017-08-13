@@ -1,6 +1,7 @@
 ---
 title: Join
 slug: join
+order: 5
 ---
 
 If you are interested in becoming a member of the MITSSS, please fill

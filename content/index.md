@@ -2,6 +2,7 @@
 title: Home
 slug: index
 content_after: True
+order: 1
 ---
 
 Founded in 1986, The Massachusetts Institute of Technology Singapore Students

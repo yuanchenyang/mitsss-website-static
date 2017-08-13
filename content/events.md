@@ -1,6 +1,7 @@
 ---
 title: Events
 slug: events
+order: 4
 events:
  - name: The Annual Welcome BBQ
    image: images/events/bbq.jpg

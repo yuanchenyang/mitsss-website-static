@@ -1,6 +1,7 @@
 ---
 title: Constitution
 slug: constitution
+order: 3
 ---
 
 #### Purpose

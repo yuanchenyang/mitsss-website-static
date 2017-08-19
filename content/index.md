@@ -18,6 +18,5 @@ anyone with an interest in Singaporean culture.
 **[Register](join.html) now
 and [follow us](https://www.facebook.com/mitsingaporeans) on Facebook!**
 
-The MITSSS committee can be also be contacted
-by [email](mailto:mitsss-com@mit.edu) or
-through [Facebook](https://www.facebook.com/mitsingaporeans).
+The MITSSS committee can also be contacted by [email](mailto:mitsss-com@mit.edu)
+or through [Facebook](https://www.facebook.com/mitsingaporeans).

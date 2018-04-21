@@ -43,9 +43,7 @@ meetings during their term of office. The effectiveness of the executive
 committee member shall be brought into question in case he fails to meet such a
 requirement. Election of the Singapore Student Society shall be held at the end
 of the academic year. Quorum of 50 percent or ten members, whichever is larger,
-shall be necessary for an election meeting to take place. The post of president
-is open to all members who are Singapore citizens or permanent residents. The
-other elected posts are open to all members.
+shall be necessary for an election meeting to take place.
 
 #### Removal and/or replacement of officers
 In the event that an officer should resign, the remaining elected officers will

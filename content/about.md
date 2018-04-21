@@ -3,31 +3,45 @@ title: About
 slug: about
 order: 2
 current_committee:
- - name: Adam Zhao
-   picture: images/current_committee/adam.jpg
-   description: "Undergraduate President of MITSSS. MIT
-   '20. Course 6. Interested in entrepreneurship and the developing world. Plays
-   badminton and ultimate frisbee. Loves food."
+ - name: Lewis Won
+   picture: images/current_committee/lewis.jpg
+   description: "President (Graduate) of MITSSS. First-year political science
+   Master's. Eventually wants to cycle the world."
 
- - name: Rayden Chia
-   picture: images/current_committee/rayden.jpg
-   description: "Treasurer of MITSSS. MIT 2020, Phi Kappa Theta, Course 6-3 and
-   15-1. Passionate about cybersecurity. Always has his sous vide equipment and
-   iron skillet handy."
+ - name: Francis Wang
+   picture: images/current_committee/francis.jpg
+   description: "President (Undergraduate) of MITSSS. MIT ’21, Course
+   6-1. Interested in embedded systems and enjoys building things."
+
+ - name: Jie Jun Ang
+   picture: images/current_committee/jiejun.jpg
+   description: "Treasurer of MITSSS. Graduate student in probability. Hoards
+   treasure."
 
  - name: Wei Zhong Goh
    picture: images/current_committee/weizhong.jpg
-   description: "Secretary of MITSSS. First-year Neuroscience PhD student at
+   description: "Events Director of MITSSS. Second year Neuroscience PhD student at
    BU. Interested in data, plant-based meal prep, Chinese karaoke, mahjong and
    road trips."
 
  - name: Chenyang Yuan
    picture: images/current_committee/chenyang.jpg
-   description: "Webmaster of MITSSS. First year EECS PhD student working on
+   description: "Webmaster of MITSSS. Second year EECS PhD student working on
    convex optimization. Likes running, biking, also an avid participant in
    puzzle hunts."
 
 past_committees:
+ - year: 2017
+   comm:
+    - position: President
+      name: Adam Zhao
+    - position: Secretary
+      name: Wei Zhong Goh
+    - position: Treasurer
+      name: Rayden Chia
+    - position: Webmaster
+      name: Chenyang Yuan
+
  - year: 2016
    comm:
     - position: Co-President (Graduate)

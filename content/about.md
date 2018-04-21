@@ -10,7 +10,7 @@ current_committee:
 
  - name: Francis Wang
    picture: images/current_committee/francis.jpg
-   description: "President (Undergraduate) of MITSSS. MIT ’21, Course
+   description: "President (Undergraduate) of MITSSS. MIT'21, Course
    6-1. Interested in embedded systems and enjoys building things."
 
  - name: Jie Jun Ang

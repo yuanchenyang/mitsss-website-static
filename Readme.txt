@@ -1,4 +1,4 @@
-Setup instructions on Athena:
+Setup instructions on Athena (first build):
 
 Clone website:
 $ cd /mit/mitsss
@@ -21,3 +21,8 @@ $ fsr sa output system:anyuser rl
 $ cd /mit/mitsss
 $ ln -s mitsss-website-static/output/ www
 $ fs sa www system:anyuser rl
+
+To rebuild after pulling new changes from github:
+$ git pull
+$ source env/bin/activate
+$ make html

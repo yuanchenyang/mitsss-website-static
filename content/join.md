@@ -4,9 +4,8 @@ slug: join
 order: 5
 ---
 
-If you are interested in becoming a member of the MITSSS, please fill
-up
-[this form](https://docs.google.com/forms/d/e/1FAIpQLSfnvL5q4sGyT-kWEpZRbCGkwGrSLqrZ8p5sfoVU5P4bA28vgQ/viewform)!
+If you are interested in becoming a member of the MITSSS, please join the
+[mailing list](http://mailman.mit.edu/mailman/listinfo/mitsss)!
 :)
 
 Membership is free and open to anyone (not just Singaporean MIT students).

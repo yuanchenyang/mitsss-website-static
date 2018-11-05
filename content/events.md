@@ -14,7 +14,7 @@ events:
    image: images/events/kopitiam.jpg
    description: "is an annual culinary showcase of the best Singaporean food in
    Boston. Authentic favorites are cooked and prepared entirely by MIT students
-   and affliates who have a passion for cooking. The event is an opportunity for
+   and affiliates who have a passion for cooking. The event is an opportunity for
    volunteers to learn the art of cooking and for participants to sample the
    diverse food culture of Singapore. Kopitiam is also promoted as the annual
    fundraising event of the MITSSS. It is a huge draw for Singaporeans from all

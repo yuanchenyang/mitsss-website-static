@@ -175,17 +175,127 @@ past_committees:
  - year: 2002
    comm:
     - position: President
-      name: Amerson Lin
+      name: Amerson Lin '05
+    - position: Vice President
+      name: Mark Sin G
+    - position: Treasurer
+      name: Steven Chan '03
+    - position: Committee Member
+      name: Wong Chee Wei G
+    - position: Committee Member
+      name: Ted Low '03
+    - position: Committee Member
+      name: Ben Leong G
 
  - year: 2001
    comm:
     - position: President
-      name: Ruimin He
+      name: Ruimin He '04
+    - position: Vice President
+      name: Zilong Chen '03
+    - position: Treasurer
+      name: Ji-Jon Sit  G
+    - position: Committee Member
+      name: Elana Wang '02
+    - position: Committee Member
+      name: Joyce Chan '03
+    - position: Committee Member
+      name: Felicia Cox '02
 
  - year: 2000
    comm:
     - position: President
-      name: Nicholas Tham
+      name: Chuohao Yeo '02
+    - position: Vice President
+      name: Lincoln Neo '02
+    - position: Treasurer
+      name: Miya Kayahara '01
+    - position: Committee Member
+      name: Huankiat Seh G
+    - position: Committee Member
+      name: Belinda Yap G
+    - position: Committee Member
+      name: Joyce Chan '03
+
+ - year: 1999
+   comm:
+    - position: President
+      name: Cheewee Ang '01
+    - position: Vice President
+      name: Chuohao Yeo '02
+    - position: Treasurer
+      name: Tsehsiang Teo '02
+    - position: Secretary
+      name: Huankiat Seh G
+    - position: Committee Member
+      name: Esa Masood '02
+    - position: Committee Member
+      name: Hoeteck Wee '02
+
+ - year: 1995
+   comm:
+    - position: President
+      name: Kuo-Yi Lim
+    - position: Treasurer
+      name: Wei Yang Cheong
+    - position: Committee Member
+      name: Pek-Hooi Soh
+    - position: Committee Member
+      name: Huey-Pin Ng
+    - position: Committee Member
+      name: Tseh-Hwan Yong
+
+ - year: 1994
+   comm:
+    - position: President
+      name: Desmond Seow
+    - position: Treasurer
+      name: Er Chiangkai
+    - position: Committee Member
+      name: Lim Chee Kiang
+    - position: Committee Member
+      name: Ben Leong
+    - position: Committee Member
+      name: Wiston Lim
+
+ - year: 1993
+   comm:
+    - position: President
+      name: Johnson Tan
+    - position: Treasurer
+      name: Louis Lim
+    - position: Committee Member
+      name: Michael Feng
+    - position: Committee Member
+      name: Kah Kay Sung
+    - position: Committee Member
+      name: Yi Ping Tan
+
+ - year: 1992
+   comm:
+    - position: President
+      name: Karina Gin-Chan
+    - position: Treasurer
+      name: Chee Kiang Lim
+    - position: Committee Member
+      name: Boon Seong Ang
+    - position: Committee Member
+      name: Mari Katada
+    - position: Committee Member
+      name: Desmond Lim
+
+ - year: 1991
+   comm:
+    - position: President
+      name: Kien Boon Teo
+    - position: Treasurer
+      name: Kuo Yi Lim
+    - position: Committee Member
+      name: Stephanie Choo
+    - position: Committee Member
+      name: Desmond Lim
+    - position: Committee Member
+      name: Wai Thong Wong
 
  - year: 1990
    comm:
@@ -204,13 +314,25 @@ past_committees:
    comm:
     - position: President
       name: Yang Meng Tan
+    - position: Treasurer
+      name: Shih-Jih Yao
     - position: Committee Member
       name: Su-Lin Low
+    - position: Committee Member
+      name: Karen Koh
 
  - year: 1988
    comm:
     - position: President
       name: Kuok Ming Lee
+    - position: Treasurer
+      name: Shih-Jih Yao
+    - position: Treasurer
+      name: Han Song Seng
+    - position: Committee Member
+      name: Li Lin Goh
+    - position: Committee Member
+      name: Tze-Yun Leong
 
  - year: 1987
    comm:
@@ -220,6 +342,10 @@ past_committees:
       name: Toon King Wong
     - position: Treasurer
       name: Li Sze Low
+    - position: Secretary
+      name: Ran-Chi Huang
+    - position: Publication
+      name: Chee Seng Chow
 
  - year: 1986
    comm:

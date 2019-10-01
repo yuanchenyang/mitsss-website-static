@@ -9,7 +9,7 @@ $ cd mitsss-website-static
 
 Set up virtualenv:
 ```
-$ virtualenv -p python3 env
+$ python3 -m venv env
 $ source env/bin/activate
 ```
 

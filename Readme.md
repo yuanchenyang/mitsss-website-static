@@ -23,7 +23,7 @@ Build website:
 $ make html
 ```
 
-Set up permissions for output directory:
+Set up permissions for output directory (See [here](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=3907002) for documentation on AFS locker permissions):
 ```
 $ add consult
 $ fsr sa output system:anyuser rl

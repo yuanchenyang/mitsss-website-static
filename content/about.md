@@ -3,34 +3,42 @@ title: About
 slug: about
 order: 2
 current_committee:
- - name: Lewis Won
-   picture: images/current_committee/lewis.jpg
-   description: "President (Graduate) of MITSSS. First-year political science
-   Master's. Eventually wants to cycle the world."
+ - name: Rubez Chong
+   picture: images/current_committee/RubezChong_scaled.jpeg
+   description: "President (Graduate) of MITSSS. 2nd years masters student at the MIT Media Lab. Sometimes I sit and think; other times I just sit."
 
- - name: Francis Wang
-   picture: images/current_committee/francis.jpg
-   description: "President (Undergraduate) of MITSSS. MIT'21, Course
-   6-1. Interested in embedded systems and enjoys building things."
+ - name: Wei Lun (James) Toh
+   picture: images/current_committee/WeiLun_scaled.jpeg
+   description: "Treasurer of MITSSS. Second year PhD in Chemistry. Thinks the answer to life, the universe and everything is 42. (the one on the right is me)."
 
- - name: Jie Jun Ang
-   picture: images/current_committee/jiejun.jpg
-   description: "Treasurer of MITSSS. Graduate student in probability. Hoards
-   treasure."
+ - name: Timothy Loh
+   picture: images/current_committee/TimLoh_scaled.jpeg
+   description: "Secretary of MITSSS. PhD student in History, Anthropology, and Science, Technology, and Society. As surprised as you are to find himself at MIT as a social scientist."
 
- - name: Wei Zhong Goh
-   picture: images/current_committee/weizhong.jpg
-   description: "Events Director of MITSSS. Second year Neuroscience PhD student at
-   BU. Interested in data, plant-based meal prep, Chinese karaoke, mahjong and
-   road trips."
+ - name: Qingyun Xie
+   picture: images/current_committee/Qingyun.jpg
+   description: "Exco member of MITSSS. I am a Ph.D. student in Dept. of Electrical Engineering and Computer Science at MIT."
 
- - name: Chenyang Yuan
-   picture: images/current_committee/chenyang.jpg
-   description: "Webmaster of MITSSS. Second year EECS PhD student working on
-   convex optimization. Likes running, biking, also an avid participant in
-   puzzle hunts."
+ - name: Andrew Chia
+   description: "Exco member of MITSSS."
+
+ - name: Yuna Gan
+   picture: images/current_committee/Yuna2_scaled.jpg
+   description: "Exco member of MITSSS. Senior majoring in Computer Science at Wellesley College. Ono I'm graduating. "
 
 past_committees:
+ - year: 2018
+   comm:
+    - position: President (Graduate)
+      name: Lewis Won
+    - position: President (Undergraduate)
+      name: Francis Wang
+    - position: Treasurer
+      name: Jie Jun Ang
+    - position: Events director
+      name: Wei Zhong Goh
+    - position: Webmaster
+      name: Chenyang Yuan
  - year: 2017
    comm:
     - position: President
